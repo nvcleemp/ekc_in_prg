@@ -97,3 +97,9 @@ This confirms the following statements:
 * the smallest planar cubic perfectly hamiltonian graph with 3 Kempe classes has 18 vertices
 * the six smallest planar cubic perfectly hamiltonian graphs with 5 Kempe classes have 24 vertices
 * the smallest planar cubic perfectly hamiltonian graph with 7 Kempe classes has 24 vertices
+
+You can easily check the example graphs in `perfectly_hamiltonian/per_class` using the following command (replacing _FILE_ by a specific file):
+
+```
+$ reg_planar_all_colourings -C 3 < FILE 
+```
