@@ -36,6 +36,10 @@ relation). This folder contains subfolders for the separate degrees of the
 regular graphs: cubic, quartic, and quintic. Each of the separate folders
 contains a README document with additional information.
 
+* [The cubic case](counting/cubic/README.md)
+* [The quartic case](counting/quartic/README.md)
+* [The quintic case](counting/quintic/README.md)
+
 ### single_switches
 
 This folder contains the scripts needed to explore the possible effect of a
