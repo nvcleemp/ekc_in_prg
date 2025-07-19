@@ -17,4 +17,4 @@ printf -v padded_order "%02d" "$order"
 
 echo "Checking cubic plane graphs with $order vertices..."
 
-plantri -d $order | reg_planar_perfectly_hamiltonian -f 3 > cubic_perfham_$padded_order.plc
+plantri -d $faces | reg_planar_perfectly_hamiltonian -f 3 > cubic_perfham_$padded_order.plc
