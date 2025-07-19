@@ -5,6 +5,8 @@ Graphs
 ------
 
 * `perfectly_hamiltonian/all/cubic_perfham_n.plc`: all perfectly hamiltonian cubic plane graphs on _n_ vertices
+* `perfectly_hamiltonian/per_class/cubic_perfham_n_classes.plc`: the perfectly hamiltonian cubic plane graphs with _n_ Kempe classes that are shown in Figure 2 of the paper.
+* `perfectly_hamiltonian/per_class/cubic_perfham_5_classes_all_smallest.plc`: the six smallest perfectly hamiltonian cubic plane graphs with 5 Kempe classes.
 
 
 Programs
