@@ -1,8 +1,8 @@
-Edge-Kempe classes in plane regular graphs
-==========================================
+Edge-Kempe classes in planar regular graphs
+===========================================
 
 This repository gives an overview of different scripts and their results used to
-obtain the computational results from the paper _Edge-Kempe classes in plane
+obtain the computational results from the paper _Edge-Kempe classes in planar
 regular graphs_.
 
 The scripts in this repository make extensive use of programs from different
