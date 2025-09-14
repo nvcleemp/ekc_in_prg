@@ -43,7 +43,8 @@ contains a README document with additional information.
 ### single_switches
 
 This folder contains the scripts needed to explore the possible effect of a
-single Kempe switch. See the README document in this folder for more details.
+single Kempe switch. See the [README document](single_switches/README.md) in
+this folder for more details.
 
 Formats
 -------
