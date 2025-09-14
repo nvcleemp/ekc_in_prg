@@ -4,9 +4,13 @@ Single Kempe switches
 Graphs
 ------
 
+These are the example graphs from the paper:
+
 * `graphs/cubic.plc`: the perfectly hamiltonian cubic plane graph shown in Figure 3
 * `graphs/quartic.plc`: the perfectly hamiltonian quartic plane graph shown in Figure 4
 * `graphs/quintic.plc`: the perfectly hamiltonian quintic plane graph shown in Figure 7
+
+These are the colourings of these graphs:
 
 * `graphs/cubic_colouring.txt`: the colouring of the graph shown in Figure 3
 * `graphs/quartic_colouring.txt`: the colouring of the graph shown in Figure 4
