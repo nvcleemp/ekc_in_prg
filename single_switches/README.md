@@ -108,7 +108,7 @@ python3 analysis_single_kempe_switch.py < graphs/cubic_colouring.txt
 python3 analysis_single_kempe_switch.py < graphs/quartic_colouring.txt
 
 python3 analysis_single_kempe_switch.py < graphs/quintic_colouring_1.txt
-python3 analysis_single_kempe_switch.py < graphs/quintic_colouring_1.txt
+python3 analysis_single_kempe_switch.py < graphs/quintic_colouring_2.txt
 ```
 
 For the colouring of the cubic graph, e.g., the output will then be:
